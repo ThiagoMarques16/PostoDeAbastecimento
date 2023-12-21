@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Downloads\\PostosDeGasolina\\PostosDeGasolina-main\\PostoDeGasolina\\ListaDePostos.csproj": {}
+    "c:\\Users\\User\\Downloads\\PostosDeGasolina\\PostosDeGasolina-main\\PostoDeGasolina\\ListaDePostos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Downloads\\PostosDeGasolina\\PostosDeGasolina-main\\PostoDeGasolina\\ListaDePostos.csproj": {
+    "c:\\Users\\User\\Downloads\\PostosDeGasolina\\PostosDeGasolina-main\\PostoDeGasolina\\ListaDePostos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Downloads\\PostosDeGasolina\\PostosDeGasolina-main\\PostoDeGasolina\\ListaDePostos.csproj",
+        "projectUniqueName": "c:\\Users\\User\\Downloads\\PostosDeGasolina\\PostosDeGasolina-main\\PostoDeGasolina\\ListaDePostos.csproj",
         "projectName": "ListaDePostos",
-        "projectPath": "C:\\Users\\User\\Downloads\\PostosDeGasolina\\PostosDeGasolina-main\\PostoDeGasolina\\ListaDePostos.csproj",
+        "projectPath": "c:\\Users\\User\\Downloads\\PostosDeGasolina\\PostosDeGasolina-main\\PostoDeGasolina\\ListaDePostos.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Downloads\\PostosDeGasolina\\PostosDeGasolina-main\\PostoDeGasolina\\obj\\",
+        "outputPath": "c:\\Users\\User\\Downloads\\PostosDeGasolina\\PostosDeGasolina-main\\PostoDeGasolina\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"

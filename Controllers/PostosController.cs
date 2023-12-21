@@ -106,6 +106,16 @@ namespace ListaDePostos.Controllers
             return postosComPrecoMenorOuIgual;
         }
 
+        [HttpGet("por-endereco/{endereco}")]
+        public ActionResult<IEnumerable<PostoDeAbastecimento>> BuscarPorEndereco(string endereco){
+            var postos = _appDbContext.PostosDeAbastecimento.Where(x => x.Endereco.Contains(endereco)).ToList();
+            if(string.IsNullOrEmpty(endereco)){
+                return BadRequest("O endereco não pode ser nulo ou vazio");
+            }
+
+            return Ok(postos);
+        }
+
 
         [HttpPost]
         public async Task<ActionResult> Adicionar(PostoDeAbastecimento postoDeAbastecimento)

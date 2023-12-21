@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eeaMxbN7n37Dxa9Fd/M99IQN19EWT8qwzdE/mqLtOO3wpdI9jwehs76vJ+FWGqR4hlRa97dr5GM1uPy/lN/4Jg==",
+  "dgSpecHash": "hrVlgAwpAyyjPgln260GUj1aNTvyXNa+PRFyYw4OdJUiGhp1E7+IbOXLRnUD6WQ+wD8iv02nHIUuh9f80uUEHw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\Downloads\\PostosDeGasolina\\PostosDeGasolina-main\\PostoDeGasolina\\ListaDePostos.csproj",
+  "projectFilePath": "c:\\Users\\User\\Downloads\\PostosDeGasolina\\PostosDeGasolina-main\\PostoDeGasolina\\ListaDePostos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
